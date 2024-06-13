@@ -27,4 +27,9 @@ public static void main(String[] args)
   
   Line 1
   Line2DLine3
+  
+  //Git second changes in mastertyt
+  hjhh
+  line
+  line
 }}
