@@ -16,4 +16,6 @@ public static void main(String[] args)
  sum= a+b;
  System.out.println(sum+"Version 1");
  
+ sub=a-b;
+  System.out.println(sub+"Version 2");
 }}
