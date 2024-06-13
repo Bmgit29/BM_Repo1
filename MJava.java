@@ -14,6 +14,6 @@ public static void main(String[] args)
  System.out.println("enter 2nd nnumber");
  b=myobj.nextInt();
  sum= a+b;
- System.out.println(sum+"Version 1"
- );
+ System.out.println(sum+"Version 1");
+ 
 }}
