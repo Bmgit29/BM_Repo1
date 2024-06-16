@@ -21,6 +21,7 @@ public static void main(String[] args)
   
   System.out.println(sub+"Version 2 modified");
   
+<<<<<<< HEAD
   ///TL JAVA Branch Changes below
    Line 1 
    Line 2
@@ -32,4 +33,17 @@ public static void main(String[] args)
    line3
    
   
+=======
+  
+  
+  ////Git master changes
+  
+  Line 1
+  Line2DLine3
+  
+  //Git second changes in mastertyt
+  hjhh
+  line
+  line
+>>>>>>> 6ea81634908e38d1ae13995537bde69220a862f9
 }}
